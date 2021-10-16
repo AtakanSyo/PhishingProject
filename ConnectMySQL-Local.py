@@ -10,14 +10,24 @@ print(connection)
 
 cursor = connection.cursor()
 
-sql = "INSERT INTO pW (url, apps, title) VALUES (%s, %s, %s)"
-val = ("a", "b", "c")
+sql = "SELECT url FROM pW"
 
-cursor.execute(sql, val);
-
-connection.commit()
+cursor.execute(sql);
 
 records = cursor.fetchall()
 
+
 for record in records:
+	record = str(record)[1:-2]
+	
 	print(record)
+	sql = """UPDATE
+  pW
+SET
+  Country = 'nlanlalnas'
+WHERE
+  url =(
+    """ + record + ")"
+	print(sql)
+	cursor.execute(sql);
+	connection.commit()

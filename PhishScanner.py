@@ -1,5 +1,3 @@
-from Wappalyzer import WebPage
-from Wappalyzer import Wappalyzer
 import requests
 import time
 import pymysql
@@ -13,9 +11,10 @@ print(connection)
 
 cursor = connection.cursor()
 
-url_x = "https://openphish.com/feed.txt"
-req = requests.get(url_x)
+url_openphish = "https://openphish.com/feed.txt"
+req = requests.get(url_openphish)
 html = req.content
+
 html = html.decode('utf-8')
 urls=html.splitlines()
 
@@ -25,10 +24,8 @@ while(True):
 	for i in range(len(Url_List)): 
 		try:
 			print(i)
-			sql = "INSERT IGNORE INTO pW (url, apps, title) VALUES (%s, %s, %s)"
-			data  = WebPage(Url_List[i]).info()
-			data['url'] = Url_List[i]
-			value = (str(data['url']), str(data['apps']), str(data['title']))
+			sql = "INSERT IGNORE INTO pW (url) VALUES (%s)"
+			value = (str(Url_List[i]))
 			print(value)
 			cursor.execute(sql, value);
 			print(cursor.rowcount, "record inserted.")
