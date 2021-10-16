@@ -1,0 +1,18 @@
+status: 301
+server: openresty
+date: Sat, 16 Oct 2021 10:21:34 GMT
+content-type: text/html
+content-length: 166
+connection: keep-alive
+location: https://f4x0r1qkx70cgnn.4sijy.weblium.site/
+strict-transport-security: max-age=2592000
+-x-permanent-redirect-url: https://f4x0r1qkx70cgnn.4sijy.weblium.site/
+content-location: http://F4X0r1qkX70CGNN.4sijy.weblium.site/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>

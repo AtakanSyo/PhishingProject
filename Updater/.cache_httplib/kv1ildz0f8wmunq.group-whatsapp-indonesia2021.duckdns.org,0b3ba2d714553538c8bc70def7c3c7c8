@@ -1,0 +1,12 @@
+status: 200
+connection: Keep-Alive
+keep-alive: timeout=5, max=100
+content-type: text/html
+last-modified: Wed, 09 Jun 2021 14:09:18 GMT
+accept-ranges: bytes
+content-length: 163
+date: Sat, 16 Oct 2021 10:24:10 GMT
+server: LiteSpeed
+content-location: http://Kv1ILDZ0F8wmunQ.group-whatsapp-indonesia2021.duckdns.org/
+
+<html><head><META HTTP-EQUIV="Cache-control" CONTENT="no-cache"><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>

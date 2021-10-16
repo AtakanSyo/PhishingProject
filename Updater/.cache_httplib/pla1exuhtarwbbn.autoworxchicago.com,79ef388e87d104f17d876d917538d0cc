@@ -1,0 +1,35 @@
+status: 200
+date: Sat, 16 Oct 2021 10:10:54 GMT
+server: Apache
+set-cookie: vsid=927vr3819246543820070; expires=Thu, 15-Oct-2026 10:10:54 GMT; Max-Age=157680000; path=/; domain=pla1exuhtarwbbn.autoworxchicago.com; HttpOnly
+x-adblock-key: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_NPB3a+ITVwNEYcMEqyNQdBFDPYOFc1DMZb+tWsF3bTLy6/YvHnX3osQhY9aF4qUFNlG5KLXMxz1kxoaGvZCFrQ==
+ntcoent-length: 2151
+content-type: text/html; charset=UTF-8
+cache-control: private
+content-length: 2151
+-content-encoding: gzip
+content-location: http://pla1EXuhtarwbBn.autoworxchicago.com/
+
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_NPB3a+ITVwNEYcMEqyNQdBFDPYOFc1DMZb+tWsF3bTLy6/YvHnX3osQhY9aF4qUFNlG5KLXMxz1kxoaGvZCFrQ==" xmlns="http://www.w3.org/1999/xhtml">
+    <head> <script type="text/javascript">var abp;</script><script type="text/javascript" src="http://pla1exuhtarwbbn.autoworxchicago.com/px.js?ch=1"></script><script type="text/javascript" src="http://pla1exuhtarwbbn.autoworxchicago.com/px.js?ch=2"></script><script type="text/javascript">function handleABPDetect(){try{if(!abp) return;var imglog = document.createElement("img");imglog.style.height="0px";imglog.style.width="0px";imglog.src="http://pla1exuhtarwbbn.autoworxchicago.com/sk-logabpstatus.php?a=Rld3ZjJKU1A0MHlrVTIwT2dlZGpSWjBKQTg2V2hDRENpNThGVGxKWmlmU0pQNnpNUzMyYVBSR0dNMFlTWTZmMEoyNG5KY2MzWXlweWlRUDJkalY4MmMvR3dCYjdJMXVVNk0zUGRxTE5Qc2JtRzkxa1VPUzVUdC9iK1BOMmgxRWY=&b="+abp;document.body.appendChild(imglog);if(typeof abperurl !== "undefined" && abperurl!="")window.top.location=abperurl;}catch(err){}}</script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Poppins:300" rel="stylesheet">
+        <title>autoworxchicago.com</title>
+        <link rel="stylesheet" href="http://i.cdnpark.com/themes/registrar/401543.css" />
+        
+    </head>
+    <body>
+    
+    
+    <script type="text/javascript">var cname = "401543"; var skrghlp = "bkdXCAJX6ylENqWTvzHue6J4QMx0Wb4Cmomb4uMoihZjnChvp%2B8IdsjaY86ZOZ1h";  var _nw_cde_ = true; </script>
+    <script src="//i.cdnpark.com/registrar/v3/loader.js" type="text/javascript"></script>
+    <script type="text/javascript" language="javascript">
+try{if(typeof handleABPDetect=="function"){handleABPDetect();}}catch(err){}
+</script>
+
+    </body>
+    </html>

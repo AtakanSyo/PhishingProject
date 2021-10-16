@@ -1,0 +1,26 @@
+status: 200
+server: nginx
+date: Sat, 16 Oct 2021 10:32:18 GMT
+content-type: text/html
+content-length: 432
+connection: keep-alive
+last-modified: Mon, 04 Jan 2021 11:22:25 GMT
+etag: "1b0-5b8114deebe40-gzip"
+accept-ranges: bytes
+vary: Accept-Encoding
+-content-encoding: gzip
+content-location: http://KfVwb8Eg6L3qZZ5.blissful-wu.134-255-217-76.plesk.page/
+-varied-accept-encoding: gzip, deflate
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Web Server's Default Page</title>
+    <meta name="copyright" content="Copyright 1999-2021. Plesk International GmbH. All rights reserved.">
+    <script src="https://assets.plesk.com/static/default-website-content/public/default-server-index.js"></script>
+</head>
+<body>
+    You see this page because there is no Web site at this address.
+</body>
+</html>

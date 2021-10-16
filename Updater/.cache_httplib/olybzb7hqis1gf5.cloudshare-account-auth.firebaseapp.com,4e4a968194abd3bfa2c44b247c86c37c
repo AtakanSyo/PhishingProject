@@ -1,0 +1,15 @@
+status: 301
+server: Varnish
+retry-after: 0
+location: https://olybzb7hqis1gf5.cloudshare-account-auth.firebaseapp.com/
+content-length: 0
+accept-ranges: bytes
+date: Sat, 16 Oct 2021 10:32:41 GMT
+connection: close
+x-served-by: cache-fra19158-FRA
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1634380362.515920,VS0,VE0
+-x-permanent-redirect-url: https://olybzb7hqis1gf5.cloudshare-account-auth.firebaseapp.com/
+content-location: http://OLybZb7HqIS1gF5.cloudshare-account-auth.firebaseapp.com/
+

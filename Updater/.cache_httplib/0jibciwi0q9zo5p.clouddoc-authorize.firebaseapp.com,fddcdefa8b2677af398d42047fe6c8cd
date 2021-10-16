@@ -1,0 +1,15 @@
+status: 301
+server: Varnish
+retry-after: 0
+location: https://0jibciwi0q9zo5p.clouddoc-authorize.firebaseapp.com/
+content-length: 0
+accept-ranges: bytes
+date: Sat, 16 Oct 2021 10:32:37 GMT
+connection: close
+x-served-by: cache-fra19132-FRA
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1634380357.222333,VS0,VE0
+-x-permanent-redirect-url: https://0jibciwi0q9zo5p.clouddoc-authorize.firebaseapp.com/
+content-location: http://0JibCiWI0Q9zo5P.clouddoc-authorize.firebaseapp.com/
+

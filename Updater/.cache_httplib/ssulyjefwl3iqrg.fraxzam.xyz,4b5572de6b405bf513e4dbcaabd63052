@@ -1,0 +1,23 @@
+status: 200
+server: nginx
+date: Sat, 16 Oct 2021 10:35:40 GMT
+content-type: text/html
+content-length: 432
+connection: keep-alive
+last-modified: Wed, 25 Aug 2021 03:34:00 GMT
+etag: "1b0-5ca59ebc4da00"
+accept-ranges: bytes
+content-location: http://SSuLYJeFWl3IqrG.fraxzam.xyz/
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Web Server's Default Page</title>
+    <meta name="copyright" content="Copyright 1999-2021. Plesk International GmbH. All rights reserved.">
+    <script src="https://assets.plesk.com/static/default-website-content/public/default-server-index.js"></script>
+</head>
+<body>
+    You see this page because there is no Web site at this address.
+</body>
+</html>

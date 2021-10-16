@@ -1,0 +1,34 @@
+status: 200
+date: Sat, 16 Oct 2021 10:22:05 GMT
+content-type: text/html; charset=UTF-8
+connection: keep-alive
+vary: Accept-Encoding
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BVH2uPbPJkNx15gwGPGTpPx%2FpRA6xe7dZFydVIFpI4FbsFeK3zTi9NFuaP8bz6LyWYpdu2cgMCAEmlAALcIHBj0UE3Y1MNJCiH6X1Cvgm8UbjwPqhb22Ib5x6CdGMsyOrw0cnDyi%2FE2%2Fm6C5ZY46RZF1qSEk61tQy%2BIBQls%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 69f09061f9900f82-MXP
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400, h3-28=":443"; ma=86400, h3-27=":443"; ma=86400
+content-length: 650
+-content-encoding: gzip
+content-location: http://ygfDEyEaxXvmaaJ.7df3e59e.sahfgmxcp7.org.cn/
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://news.google.com">
+<meta property="og:title" content="Google News">
+<meta property="og:image" content="https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw">
+<meta property="og:description" content="Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.">
+<title>Google News</title>
+</head>
+<body>
+<script type="text/javascript" charset="utf-8">
+    location.href = "https://news.google.com/";
+
+</script>
+</body>
+</html>

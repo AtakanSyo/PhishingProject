@@ -1,0 +1,15 @@
+status: 301
+server: Varnish
+retry-after: 0
+location: https://ef51lprgyjx4mgm.docsharex-authorize.firebaseapp.com/
+content-length: 0
+accept-ranges: bytes
+date: Sat, 16 Oct 2021 10:13:48 GMT
+connection: close
+x-served-by: cache-hhn4058-HHN
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1634379228.335235,VS0,VE0
+-x-permanent-redirect-url: https://ef51lprgyjx4mgm.docsharex-authorize.firebaseapp.com/
+content-location: http://ef51lPrgyJX4MgM.docsharex-authorize.firebaseapp.com/
+

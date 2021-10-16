@@ -1,0 +1,21 @@
+status: 301
+date: Sat, 16 Oct 2021 10:33:11 GMT
+server: Apache
+content-security-policy: frame-ancestors webwavecms.com webwave.me ro.webwave.me webwave.ro webwave.com.au templates.webwave.me szablony.webwavecms.com templates.webwave.com.au sabloane.webwave.ro;
+location: https://xsoyuj2iqvvkuta.edhf0c.webwave.dev/
+cache-control: max-age=0
+expires: Sat, 16 Oct 2021 10:33:11 GMT
+content-length: 335
+content-type: text/html; charset=iso-8859-1
+-x-permanent-redirect-url: https://xsoyuj2iqvvkuta.edhf0c.webwave.dev/
+content-location: http://xSOyuj2iQVVKuTa.edhf0c.webwave.dev/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://xsoyuj2iqvvkuta.edhf0c.webwave.dev/">here</a>.</p>
+<hr>
+<address>Apache Server at xsoyuj2iqvvkuta.edhf0c.webwave.dev Port 80</address>
+</body></html>

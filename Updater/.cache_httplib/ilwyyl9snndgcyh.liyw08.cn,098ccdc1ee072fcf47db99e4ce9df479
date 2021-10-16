@@ -1,0 +1,452 @@
+status: 200
+server: nginx
+date: Sat, 16 Oct 2021 10:24:43 GMT
+content-type: text/html; charset=utf-8
+connection: keep-alive
+vary: Accept-Encoding
+set-cookie: PHPSESSID=ocf0erp0us5p2fdva6bl295hm2; path=/, akmall_fbpid=9999%2C8888%2C555; path=/, akmall_pixel_fbq=fbq%28%27init%27%2C+%279999%27%29%3B+fbq%28%27init%27%2C+%278888%27%29%3B+fbq%28%27init%27%2C+%27555%27%29%3B+; path=/, akmall_pixel_noscript=%3Cnoscript%3E%3Cimg+height%3D%221%22+width%3D%221%22+style%3D%22display%3Anone%22+src%3D%22https%3A%2F%2Fwww.facebook.com%2Ftr%3Fid%3D9999%26ev%3DPageView%26noscript%3D1%22+%2F%3E%3C%2Fnoscript%3E+%3Cnoscript%3E%3Cimg+height%3D%221%22+width%3D%221%22+style%3D%22display%3Anone%22+src%3D%22https%3A%2F%2Fwww.facebook.com%2Ftr%3Fid%3D8888%26ev%3DPageView%26noscript%3D1%22+%2F%3E%3C%2Fnoscript%3E+%3Cnoscript%3E%3Cimg+height%3D%221%22+width%3D%221%22+style%3D%22display%3Anone%22+src%3D%22https%3A%2F%2Fwww.facebook.com%2Ftr%3Fid%3D555%26ev%3DPageView%26noscript%3D1%22+%2F%3E%3C%2Fnoscript%3E+; path=/, akmall_screen=pc; path=/
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+cache-control: private
+content-sn: 144418297308364861
+x-powered-by: ThinkPHP
+author: akmall
+version: V5.5.18
+content-length: 27927
+-content-encoding: gzip
+content-location: http://IlWYYl9snnDGcYH.liyw08.cn/
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<html >
+<head>
+<title>
+			AK单页订单管理系统企业版</title>
+<meta charset="utf-8" />
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="yes" name="apple-touch-fullscreen"/>
+<meta content="telephone=no" name="format-detection"/>
+<link rel="dns-prefetch" href="http://ilwyyl9snndgcyh.liyw08.cn/">
+<meta content="black" name="apple-mobile-web-app-status-bar-style">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0, user-scalable=no" name="viewport">
+<meta name="description" content="AK单页订单管理系统企业版">
+<meta name="keywords" content="AK单页订单管理系统企业版">
+
+<link rel="shortcut icon" href="/akmall.ico?v=V5.5.18" />
+<link href="/Public/akmall/akmall-order.css?v=V5.5.18" rel="stylesheet">
+<!--[if lt IE 9]><link href="/Public/akmall/akmall-ie.css?v=V5.5.18" rel="stylesheet"><![endif]-->
+<script type="text/javascript" src="/Public/akmall/seajs/seajs/sea.js?v=V5.5.18"></script>
+<script type="text/javascript">
+var akmallHost = "http://ilwyyl9snndgcyh.liyw08.cn/",akmallRoot = "/",akmallVersion="V5.5.18",lang="zh-tw";
+seajs.config({ base: '/Public/akmall/seajs/',alias: {'jquery': 'jquery/jquery','akmall': 'akmall/akmall','lang': 'akmall/lang-'+lang}, map: [['.css', '.css?v=' + akmallVersion],['.js', '.js?v=' + akmallVersion]]});
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '9999'); fbq('init', '8888'); fbq('init', '555'); fbq('track', 'PageView');
+fbq('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=9999&ev=PageView&noscript=1" /></noscript> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=8888&ev=PageView&noscript=1" /></noscript> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=555&ev=PageView&noscript=1" /></noscript> <!-- End Facebook Pixel Code -->
+
+<link href="/Public/akmall/pc/akmall.css?v=V5.5.18" rel="stylesheet">
+<script type="text/javascript">
+seajs.use(['jquery/lazyload'], function() {
+	$(".akmall-lazy").lazyload({ placeholder : "/Public/akmall/akmall.gif",effect : "fadeIn"});
+});
+</script>
+
+</head>
+<body >
+
+
+<div class="pbody">
+	
+<div class="header">
+	<div class="mainwidth">
+		<div class="headtop">
+			<span class="place cur_city_name">
+				<form action="/index.php?m=Index&a=category" method="get" class="search_form">
+					<input type="text" name="kw" class="search_input" placeholder="商品搜索" value="" />
+					<input type="submit" value="" class="search_button">
+					<input type="hidden" name="m" value="Index" class="search_button">
+					<input type="hidden" name="a" value="category" class="search_button">
+				</form>
+			</span>
+			
+			<div class="topright">
+								<a href="/index.php?m=Item&a=index" class="phone">手機版</a>
+			</div>
+			
+		</div>
+		<div class="logobox">
+			<a href="http://ilwyyl9snndgcyh.liyw08.cn/" class="logo">
+				<img title="AK单页订单管理系统企业版" alt="AK单页订单管理系统企业版" src="/Public/akmall/pc/logo.png">
+			</a>
+		</div>
+		<div class="nav">
+						<ul>
+				<li class="active"><a href="/index.php?m=Index&a=index"><span data-hover="首頁">首頁</span></a></li>
+				<li class="li_2"><a href="/index.php?m=Index&a=category"><span data-hover="商品分類">商品分類</span></a></li>				<li class="li_3"><a href="/index.php?m=Index&a=query"><span data-hover="
+訂單追蹤">
+訂單追蹤</span></a></li>				<li class="li_4"><a href="/index.php?m=Index&a=detail&id=1"><span data-hover="
+關於我們">
+關於我們</span></a></li>			</ul>
+		</div>
+	</div>
+</div>
+<style> 
+	.booking-now,.akmall-btn,.akmall-plug .price,.akmall-badge{background-color: #F34242 !important;border-color: #F34242 !important;}
+	.akmall-btn.active {color:#F34242;border-bottom-color:#F34242;}
+	.side-menu a.active{border-left-color:#F34242;}
+	.btn-buy,.akmall-foot-nav{background-color:#F34242 !important;}
+</style>
+
+<div class="container">
+	<div class="mainwidth">
+		
+		<div class="newbanner">
+		  <div class="newflexslider">
+			<ul class="newslides">
+				<li><a href="http://" target="_blank"><img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202101/5c040fb2ce69f.jpg" /></a></li><li><a href="http://" target="_blank"><img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202101/5c04100d209c5.jpg" /></a></li><li><a href="http://" target="_blank"><img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202101/5c040fc670bc6.jpg" /></a></li>			</ul>
+		  </div>
+		</div>
+		<script type="text/javascript">
+		seajs.use(['jquery/newflexslider'], function(){ $('.newflexslider').newflexslider({ directionNav: true, pauseOnAction: false,newslideshowSpeed:5000 });});
+		</script>
+
+	<div class="indprocon">
+		<div class="toptitle">
+			<span class="titlein"><strong>新品推薦 / <span class="en">New Products</span></strong></span>
+		</div>
+		
+		<ul class="indprolist">
+			<li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=3Fcux3">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202101/5c043a731f7c3.jpg" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=3Fcux3" class="title" title="支持youtube、facebook视频">支持youtube、facebook视频</a>
+				<span class="price">
+					NT$1111									</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=3u6KX8">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=3u6KX8" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=6rBbgb">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=6rBbgb" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=77Zr95">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=77Zr95" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=9AkUXb">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=9AkUXb" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=1MxsLX">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=1MxsLX" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=4EtSdV">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=4EtSdV" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=3l4WFb">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=3l4WFb" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=1HPGcM">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=1HPGcM" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=9oAdY8">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=9oAdY8" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=9IpCTC">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=9IpCTC" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li><li>
+				<div class="img">
+				<a href="/index.php?m=Index&a=order&id=8ssuCf">
+					<img src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d1679aeb73c.png" class="akmall-lazy"><span></span>
+				</a>
+				</div>
+				<a href="/index.php?m=Index&a=order&id=8ssuCf" class="title" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</a>
+				<span class="price">
+					NT$1280					<del>NT$1680</del>				</span>
+				<span class="text"></span>
+			</li>		</ul>
+	</div>
+<style> 
+.btn{background-color: #FF6600;}
+.tabs-nav a.active {color:#FF6600;border-bottom-color:#FF6600;}
+.side-menu a.active{border-left-color:#FF6600;}
+.btn-buy,.akmall-foot-nav{background-color:#FF6600 !important;}
+.booking-now,.akmall-btn,.akmall-plug .price,.akmall-badge{background-color: #FF6600 !important;border-color: #FF6600 !important;}
+.akmall-btn.active {color:#FF6600;border-bottom-color:#FF6600;}
+.newtitle{ height:auto; line-height:50px;font-size:140%; text-indent:12px; color:#444; border:1px solid #eee; border-bottom:none;background-color: #fff;text-align:center;}
+.newmain dl{ display:block; }
+.newmain dl dt{ margin-top:-1px;clear:both;width:100%; height:auto;position:relative;overflow:hidden;border-bottom: 1px solid #eee;border-top: 1px solid #eee;}
+.newmain dl dt a.info{ height:auto; display:block; position:relative; background:#fff; border-right:1px solid #eee;}
+.newmain dl dt .img{ display:block;height:auto;text-align:center;}
+.newmain dl dt .img img{ height:auto;max-width:100%;}
+.newmain dl dt .clear{margin-top:0px;}
+.newmain_text1,.newmain_text{margin-left:-1px;border-right:1px solid #eee;padding:8px 0;width:100%;  display:block; z-index:99;text-align:center;position: relative;background: #fff;}
+.newmain_text1 h4,.newmain_text1 p,.newmain_text1 em,.newmain_text h4,.newmain dl dd a p,.newmain dl dd a em{ display:block; height:3em;overflow:hidden; line-height:1.5em;}
+.newmain_text1 h4,.newmain_text h4{font-size:100%;color:#333333;}
+.newmain_text1 p,.newmain_text p{font-size:80%; color:#666;}
+.newmain_text1 em,.newmain_text em{font-size:100%; color:#666;}
+.newmain_text1 em strong,.newmain_text em strong {font-size:120%; font-weight:normal; color:#FF9933;}
+.newmain dl dt .newmain_text em {right: 3%;top: 20px;}
+.newmain dl dd{ width:50%; display:inline-block; height:auto;oat:left;background-color: #fff;*margin-left:-1px;position:relative;overflow:hidden;border-bottom: 1px solid #eee;border-left: 1px solid #eee;margin-left: -1px;}
+.newmain dl dd a.info{height:auto; display:block; overflow:hidden; position:absolute;left:0;right:0;top:0;bottom: 0;border-right: 1px solid #eee;}
+.newmain dl dd .img{display:block; height:auto;margin-top:0;text-align:center;position: relative;}
+.newmain dl dd .img img{ width:100%;bottom:0;}
+.newmain .data-empty{ width:100%;text-align:center;padding:5em 0;}
+.akmall-item-list .clear{margin-top:80%;}
+.tabs-nav a {display: inline-block;height:40px;font-size: 14px;color: #4b4b4b;background:#fff;text-align:center;overflow:hidden;border-bottom:1px solid #e3e3e3;}
+.tabs-nav a  span{display: inline-block;margin:10px 0;height:20px;line-height:20px;border-left:1px solid #ccc;width:100%;text-align:center;}
+.tabs-nav a:first-child  span{border:none;}
+.tabs-nav a.active{color:#1faf33;border-bottom:1px solid #1faf33;}
+.tabs-main{padding-top:10px;}
+.newmain dl.list3{display:none;}
+.newmain dl.list3 dd{width:230px !important;margin:8px;}
+.newmain dl.list3 .newmain_text{top:10px;text-align:center;padding-bottom: 20px;}
+.newmain dl.list3 .newmain_text em{font-size:1em;font-style:normal;}
+
+</style>
+
+	<div class="tabs newmain background">
+		<nav class="clearfix tabs-nav">
+		<a href="javascript:;" class="active" style="width:25%;"><span>熱賣商品</span></a><a href="javascript:;"  style="width:25%;"><span>時尚服裝</span></a><a href="javascript:;"  style="width:25%;"><span>精美飾品</span></a><a href="javascript:;"  style="width:25%;"><span>眼鏡</span></a>	</nav>
+	<nav class="clearfix tabs-main">
+		<dl class="list3" style="display:block" >
+							<dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=3Fcux3" title="支持youtube、facebook视频" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202101/5c043a731f7c3.jpg" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">支持youtube、facebook视频</h5>
+					<em><strong>NT$1111</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=7rS64E" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=5F8fyY" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=7o0QDZ" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=4jwBsf" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=2BySWk" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=3WKxpu" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=2XMXt2" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=5oJ61j" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd><dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=461CUx" title="犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！" class="info"> 
+						<div class="img"><img  src="http://ilwyyl9snndgcyh.liyw08.cn/Public/Uploads/202106/60d167a4b763c.png" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">犀利士Cialis美國進口男士口服藥丸30顆裝【買二送一】 藥效長達36小時！還可治療前列腺攝護腺頑疾！—活動結束恢復原價！</h5>
+					<em><strong>NT$1280</strong></em>
+					</div>
+				</dd>		</dl><dl class="list3"  >
+			<dt class="data-empty">暂无内容...</dt>
+					</dl><dl class="list3"  >
+			<dt class="data-empty">暂无内容...</dt>
+					</dl><dl class="list3"  >
+							<dd class="akmall-item-list"> 
+					<a href="/index.php?m=Index&a=order&id=9lyEXU" title="近視眼鏡女網紅款韓版潮不規則多邊形眼鏡框配有度數眼睛框" class="info"> 
+						<div class="img"><img  src="https://oobayi.oss-cn-shenzhen.aliyuncs.com/akmall/1904/e468fffagy1fxsv8qeqr5j20ku0gpjsx.jpg" class="lazy"></div>
+					</a>
+					<div class="clear"></div>
+					<div class="newmain_text">
+					<h5 class="ellipsis">近視眼鏡女網紅款韓版潮不規則多邊形眼鏡框配有度數眼睛框</h5>
+					<em><strong>NT$1288</strong></em>
+					</div>
+				</dd>		</dl>	</nav>
+</div>
+<script type="text/javascript">
+seajs.use(['jquery'], function($){
+	$('.tabs-nav a').click(function(){
+		var _this = $(this),index = _this.index();
+		_this.addClass('active').siblings('a').removeClass('active');
+		$('.tabs-main dl').eq(index).fadeIn(500).siblings('dl').hide();
+	})
+});
+</script>	
+	<div class="indprocon">
+		<div class="toptitle">
+			<span class="titlein"><strong>新聞資訊 / <span class="en">News Infomation</span></strong></span>
+		</div>
+				<div class="wrap clearfix">
+			<div class="news-list">
+								<ul>
+					<li><a href="/index.php?m=Index&a=detail&id=5" target="_blank">隱私協議</a></li><li><a href="/index.php?m=Index&a=detail&id=4" target="_blank">服務條款</a></li><li><a href="/index.php?m=Index&a=detail&id=3" target="_blank">物流條款</a></li><li><a href="/index.php?m=Index&a=detail&id=1" target="_blank"> 關於我們-AKMALL訂單系統</a></li>				</ul>
+			</div>		</div>
+	</div>
+	
+</div>
+    </div>
+<div id="downArrowBox"></div>
+</div>
+
+
+<div class="footer">
+	<div class="mainwidth">
+				<ul class="footcon">
+			<li class="akmall-copyright">
+				<div class="copyright"><div style="font-size:14px;">
+<a href="index.php?m=Item&a=detail&id=1&uid=1">關於我們</a> | 
+<a href="index.php?m=Item&a=detail&id=3&uid=1">物流條款</a> | 
+<a href="index.php?m=Item&a=detail&id=4&uid=1">服務條款</a> | 
+<a href="index.php?m=Item&a=detail&id=5&uid=1">隱私協議</a><br />
+Copyright © 2016-2021 <a href="javascript:;">AK单页订单管理系统企业版</a> All Rights Reserved<br /><script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1280234192'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1280234192%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></div></div>
+			</li>
+			<li class="akmall-contact">
+				<div class="foottel">
+					</br>
+																				<a target="_blank" href="https://line.me/ti/p/O5KQJETlmV"><span class="foot-icon line"><i class="icon-line"></i></span></a>														</div>
+				
+			</li>
+		</ul>
+	</div>
+</div>
+<div id="akmallUp"></div>
+<script type="text/javascript">
+seajs.use(['jquery/scrollup'], function(){ $.scrollUp({scrollName: 'akmallUp'}); });
+</script>
+
+
+</body>
+</html>

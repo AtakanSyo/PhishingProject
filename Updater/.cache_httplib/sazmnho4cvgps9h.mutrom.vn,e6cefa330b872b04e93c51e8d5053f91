@@ -1,0 +1,38 @@
+status: 200
+server: nginx
+date: Sat, 16 Oct 2021 10:28:12 GMT
+content-type: text/html
+last-modified: Mon, 10 Sep 2018 07:59:29 GMT
+connection: keep-alive
+vary: Accept-Encoding
+etag: W/"5b962461-264"
+content-length: 612
+-content-encoding: gzip
+content-location: http://SazMNhO4cVGPS9H.mutrom.vn/
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href="http://nginx.org/">nginx.org</a>.<br/>
+Commercial support is available at
+<a href="http://nginx.com/">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>

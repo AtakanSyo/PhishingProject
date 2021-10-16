@@ -1,0 +1,23 @@
+status: 200
+connection: Keep-Alive
+content-type: text/html; charset=UTF-8
+content-length: 1036
+vary: Accept-Encoding
+date: Sat, 16 Oct 2021 10:20:39 GMT
+-content-encoding: gzip
+content-location: http://oH0llWj99HUmts5.www.1179733562.armserve.co.in/
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Index of /</title></head>
+  <body>
+    <h1>Index of /</h1><pre><img src="/_autoindex/icons/blank.png" alt="     "> <a href='?ND'>Name</a>                                                                             <a href='?MA'>Last modified</a>         <a href='?SA'>Size</a>  <a href='?DA'>Description</a>
+   <hr><img src="/_autoindex/icons/folder.png" alt="directory"> <a href="/cgi-bin/">cgi-bin</a>                                                                          13-Oct-2021 12:38        -       
+<img src="/_autoindex/icons/folder.png" alt="directory"> <a href="/redirect/">redirect</a>                                                                         14-Oct-2021 19:04        -       
+</pre><hr><address>Proudly Served by LiteSpeed Web Server at oh0llwj99humts5.www.1179733562.armserve.co.in Port 80</address>
+</body>
+</html>

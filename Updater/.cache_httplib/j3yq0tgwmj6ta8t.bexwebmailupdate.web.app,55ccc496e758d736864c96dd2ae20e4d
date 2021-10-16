@@ -1,0 +1,15 @@
+status: 301
+server: Varnish
+retry-after: 0
+location: https://j3yq0tgwmj6ta8t.bexwebmailupdate.web.app/
+content-length: 0
+accept-ranges: bytes
+date: Sat, 16 Oct 2021 10:11:09 GMT
+connection: close
+x-served-by: cache-hhn4037-HHN
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1634379070.949110,VS0,VE0
+-x-permanent-redirect-url: https://j3yq0tgwmj6ta8t.bexwebmailupdate.web.app/
+content-location: http://J3yq0TGwmJ6TA8T.bexwebmailupdate.web.app/
+
